@@ -76,7 +76,7 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
-}
+} 
 
 .content {
     width: 75%;
@@ -126,13 +126,7 @@ p {
     color: #ffffff;
 }
 
-.benefits h3 {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefits img {
+.benefits h3, .benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -144,14 +138,14 @@ p {
 
 /*Start Footer Section*/
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
 
