@@ -126,7 +126,12 @@ p {
     color: #ffffff;
 }
 
-.benefits h3, .benefits img {
+.benefits h3 {
+    margin: 10px;
+    text-align: center;
+}
+
+.benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
